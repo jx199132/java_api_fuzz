@@ -13,6 +13,10 @@ admin
 manage
 manager
 staff
+role
+dict
+dept
+log
 employee
 profile
 center
